@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493797903 source:c:\users\admin\desktop\p - u - z - z - l - e\my_game\game.cpp
+	<iostream>
+	<SDL.h>
+
+1494322262 source:c:\users\admin\desktop\my_game\game.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<SDL.h>
+
+1494561232 source:c:\users\admin\desktop\new folder\my_game\game.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<SDL.h>
+
